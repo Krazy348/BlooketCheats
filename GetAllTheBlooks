@@ -1,17 +1,3 @@
-/**
-* @license StewartPrivateLicense-2.0.1
-* Copyright (c) 005Konz 2023
-*
-* You may not reproduce or distribute any code inside this file without the licenser's permission.
-* You may not copy, modify, steal, skid, or recreate any of the code inside this file.
-* You may not under any circumstance republish any code from this file as your own.
-* 
-* ALL TERMS STATED IN THE LINK BELOW APPLY ASWELL
-* https://github.com/005Konz/Blooket-Cheats/blob/main/LICENSE
-*/
-
-/* THE UPDATE CHECKER IS ADDED DURING COMMIT PREP, THERE MAY BE REDUNDANT CODE, DO NOT TOUCH */
-
 (() => {
     let iframe = document.querySelector("iframe");
     /* By CryptoDude3 */
